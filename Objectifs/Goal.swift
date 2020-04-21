@@ -9,4 +9,6 @@
 import Foundation
 struct Goal {
     let title: String
+    
+    let time = 0
 }
