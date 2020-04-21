@@ -1,3 +1,3 @@
-- ajouter titre
-- ajouter délai
+- ajouter délai pour objectifs
 - créer des logos / icone
+- modifier les objectifs
